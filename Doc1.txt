@@ -1,0 +1,3 @@
+Hello this is my git clone..
+and i am making changes in the local repo and after that 
+i am going to commit and push the changes to the remote repo in github.
